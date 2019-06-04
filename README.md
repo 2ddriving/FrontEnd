@@ -1,5 +1,5 @@
 # FrontEnd
 
-#Technologies
+# Technologies
 React.js
 Redux
